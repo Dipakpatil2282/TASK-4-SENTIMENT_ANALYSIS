@@ -15,10 +15,15 @@ Classifies reviews as Positive, Negative, or Neutral
 Visualizes the sentiment distribution with clear charts
 
 🛠️ Tools Used
+
 Python
+
 Pandas
+
 TextBlob (NLP library)
+
 Seaborn, Matplotlib
+
 Jupyter Notebook
 
 📊 Key Insight
